@@ -1,0 +1,12 @@
+{
+    "name": "root/html",
+    "authors": [
+        {
+            "name": "Julia Polec",
+            "email": "julka.polec@gmail.com"
+        }
+    ],
+    "require": {
+        "nubs/random-name-generator": "^2.2"
+    }
+}
